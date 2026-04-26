@@ -8,4 +8,4 @@ After searching for a documentation on how to host a simple blog for free I foun
 
 Here is an example of a draw.io diagram exported at 200% with a 20 margin.
 
-![diagram](/_posts/2026-04-26-diagram.png)
+![diagram](/assets/2026-04-26-diagram.png)
